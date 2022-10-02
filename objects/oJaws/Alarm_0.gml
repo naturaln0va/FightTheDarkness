@@ -1,0 +1,2 @@
+
+openRemaining = openCount;
